@@ -1,6 +1,6 @@
 # Conversor de PDF de destinos de función publica a Excel
 
-Este es un programa que extrae tablas de un archivo PDF de los que habitualmente cuelga función publica con los destinos de los opositores y las guarda en un archivo Excel.
+Este es un script que extrae tablas de un archivo PDF de los que habitualmente cuelga función publica con los destinos de los opositores y las guarda en un archivo Excel.
 
 ## Requisitos
 
